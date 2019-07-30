@@ -47,8 +47,12 @@ ul{
 }
 
 a{
-	color: red;
+	color: blue;
 	text-decoration: none;
+}
+
+a:hover{
+	background-color: lightgrey;
 }
 
 footer{
