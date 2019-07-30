@@ -1,0 +1,70 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #ffffff;
+	padding: 40px;
+	text-align: center;
+	}	
+h1{
+	font-size: 90px;
+	color: grey;
+}
+
+header img{
+	border-radius: 50%;
+	width: 400px;
+	border: 10px solid #ffffff;	
+	max-width: 100%	
+	}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px ;
+}
+
+img.babymango{
+	max-width: 100%
+}
+img.babykiwi{
+	max-width: 100%
+}
+
+p.caption{
+	font-size: 15px;
+	color: grey;
+	font-style: italic;
+	text-align: center;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #ffffff;
+
+}
+
+footer ul{
+	text-align: center;
+	color: grey;
+	font-size: 10px;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 10px;
+}
